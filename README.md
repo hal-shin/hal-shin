@@ -29,8 +29,8 @@ I am a full-stack engineer at [Granular.ai](https://granular.ai) and I specializ
 ### ⚙️ &nbsp;GitHub Stats
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=communitybicycle&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=communitybicycle&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=communitybicycle&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=communitybicycle&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 ### 💼 &nbsp;Portfolio
