@@ -1,10 +1,10 @@
-### 👋 &nbsp;Hi there!
+### 👋 &nbsp;Psst! Welcome to my profile!
 
 I am a full-stack engineer at Granular.ai and I specialize in creating great React applications.
 
 - 🔭 I’m currently working on a next.js app to review tennis coaches.
 - 🌱 I’m currently learning DevOps stuff: microservices, Docker, Kubernetes, GCS
-- 🍺  I'm currently living on an awesome island in BC, Canada
+- 🍺 I'm currently living on an awesome island in BC, Canada
 - 🎾 I'm currently playing tennis... do you play? 
 - ⚡ Fun fact: I studied philosophy in school!
 
