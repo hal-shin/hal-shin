@@ -4,22 +4,9 @@ I am a full-stack engineer at Granular.ai and I specialize in creating great Rea
 
 - 🔭 I’m currently working on a next.js app to review tennis coaches.
 - 🌱 I’m currently learning DevOps stuff: microservices, Docker, Kubernetes, GCS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### ✉ &nbsp;Contact Me
-<p>
-    <a href="https://www.linkedin.com/in/halshin/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Hal Shin LinkedIn" />
-    </a>
-    <a href="mailto:hal.shin@alumni.ubc.ca" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-8B89CC?logo=mail&style=for-the-badge&logoColor=white" alt="Hal Shin Email" />
-    </a>
-</p>
+- 🍺  I'm currently living on an awesome island in BC, Canada
+- 🎾 I'm currently playing tennis... do you play? 
+- ⚡ Fun fact: I studied philosophy in school!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,6 +36,16 @@ I am a full-stack engineer at Granular.ai and I specialize in creating great Rea
 ### 💼 &nbsp;Portfolio
 
 Feel free to check out [my portfolio](https://halshin.com)!
+
+### ✉ &nbsp;Contact Me
+<p>
+    <a href="https://www.linkedin.com/in/halshin/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Hal Shin LinkedIn" />
+    </a>
+    <a href="mailto:hal.shin@alumni.ubc.ca" target="_blank">
+        <img src="https://img.shields.io/badge/-Email-8B89CC?logo=mail&style=for-the-badge&logoColor=white" alt="Hal Shin Email" />
+    </a>
+</p>
 
 <!--
 **communitybicycle/communitybicycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
