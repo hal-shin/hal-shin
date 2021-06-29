@@ -20,9 +20,11 @@ I am a full-stack engineer at Granular.ai and I specialize in creating great Rea
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=communitybicycle&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/communitybicycle)
 <div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=communitybicycle&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=communitybicycle&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=communitybicycle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=communitybicycle&layout=compact&langs_count=8&theme=dracula"/>
 </div>
+
+### Portfolio
 
 Feel free to check out [my portfolio](https://halshin.com)!
 
