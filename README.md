@@ -1,6 +1,29 @@
-### Hi there 👋
+### 👋 &nbsp;Hi there!
 
 I am a full-stack engineer at Granular.ai and I specialize in creating great React applications.
+
+- 🔭 I’m currently working on a next.js app to review tennis coaches.
+- 🌱 I’m currently learning DevOps stuff: microservices, Docker, Kubernetes, GCS
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<p align="center">
+    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
+    <br/><br/>
+    <a href="https://t.me/matheusfelipeog" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/halshin/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Hal Shin LinkedIn" />
+    </a>
+    <a href="mailto:hal.shin@alumni.ubc.ca" target="_blank">
+        <img src="https://img.shields.io/badge/-Email-8B89CC?logo=email&style=for-the-badge&logoColor=white" alt="Hal Shin Email" />
+    </a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
