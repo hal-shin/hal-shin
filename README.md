@@ -29,8 +29,8 @@ I am a full-stack engineer at Granular.ai and I specialize in creating great Rea
 ### ⚙️ &nbsp;GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=communitybicycle&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=communitybicycle&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=communitybicycle&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=communitybicycle&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 ### 💼 &nbsp;Portfolio
@@ -43,7 +43,7 @@ Feel free to check out [my portfolio](https://halshin.com)!
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Hal Shin LinkedIn" />
     </a>
     <a href="mailto:hal.shin@alumni.ubc.ca" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-8B89CC?logo=gmail&logoColor=white" alt="Hal Shin Email" />
+        <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" alt="Hal Shin Email" />
     </a>
 </p>
 
