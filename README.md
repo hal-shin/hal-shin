@@ -42,6 +42,9 @@ Feel free to check out [my portfolio](https://halshin.com)!
     <a href="https://www.linkedin.com/in/halshin/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Hal Shin LinkedIn" />
     </a>
+      <a href="https://twitter.com/_halshin" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=twitter&logoColor=white" alt="Hal Shin Twitter" />
+    </a>
     <a href="mailto:hal.shin@alumni.ubc.ca" target="_blank">
         <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" alt="Hal Shin Email" />
     </a>
