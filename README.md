@@ -1,10 +1,10 @@
-### 👋 &nbsp;Psst! Welcome to my profile!
+### 👋 &nbsp;Hey there!
 
-I am a full-stack engineer at [Granular.ai](https://granular.ai) and I specialize in creating great React applications.
+I am currently the VP of Product & Engineering at [Granular](https://granular.ai) where I work on geospatial tooling and frameworks to streamline GIS operations and Geo AI pipelines.
 
-- 🔭 I’m currently working on a next.js app to review tennis coaches.
-- 🌱 I’m currently learning DevOps stuff: microservices, Docker, Kubernetes, GCS
-- 🍺 I'm currently living on an awesome island in BC, Canada
+- 🔭 I'm currently working on [GeoSearch](https://geosearch.io/), a chat-based interface to geospatial information and assets
+- 🌱 I’m currently learning React Native to make an awesome mobile app
+- 🍺 I'm currently living in sunshine central: Kelowna, BC
 - 🎾 I'm currently playing tennis... do you play? 
 - ⚡ Fun fact: I studied philosophy in school!
 
