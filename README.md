@@ -1,38 +1,35 @@
-### 👋 &nbsp;Hello there!
+<div style="text-align: center">
 
-I'm a software developer and founder of Overseed AI. 
+# Hi, I'm Hal Shin 👋
 
-I'm currently working on developing open source AI workflows and toolings. My latest project is [viwo-cli](https://github.com/OverseedAI/viwo).
+### Founder of <a href="https://github.com/OverseedAI">Overseed AI</a> | Software Developer | Content Creator
 
-I also document my startup journey along with software and AI tips and tricks on my social media channels. Feel free to connect with me!
+<a href="https://www.youtube.com/@halshin_software"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
+<a href="https://www.twitch.tv/halshin"><img src="https://img.shields.io/badge/Twitch-Follow-6441a5?style=for-the-badge&logo=twitch" alt="Twitch"/></a>
+<a href="https://www.linkedin.com/in/halshin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://x.com/_halshin"><img src="https://img.shields.io/badge/X/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://bsky.app/profile/halshin.com"><img src="https://img.shields.io/badge/X/Bluesky-Follow-0085FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:hal@bandh.ca"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-### 🔗 My Links
-<p>
-    <a href="https://www.youtube.com/@halshin_software" target="_blank" style="display: block;">
-        <img src="https://img.shields.io/badge/YouTube-Subscribe?logo=YouTube&logoColor=white&color=red" alt="Hal Shin YouTube" />
-    </a>    
-    <a href="https://www.linkedin.com/in/halshin/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Hal Shin LinkedIn" />
-    </a>
-      <a href="https://x.com/_halshin" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Hal Shin Twitter" />
-    </a>
-    <a href="mailto:hal@bandh.ca" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" alt="Hal Shin Email" />
-    </a>
-</p>
+</div>
 
-<!--
-**communitybicycle/communitybicycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently focused on developing open-source AI workflows and tooling.
+
+> **[viwo-cli](https://github.com/OverseedAI/viwo)**
+>
+> A powerful CLI tool for orchestrating AI workflows.
+>
+> [**View Repository**](https://github.com/OverseedAI/viwo) • [**Report Bug**](https://github.com/OverseedAI/viwo/issues)
+
+---
+
+### 📺 Content & Community
+
+I document my startup journey and share software/AI engineering tips.
+
+* **YouTube:** Deep dives into AI tooling and startup life.
+* **Overseed AI:** My journey building the next generation of AI tools.
