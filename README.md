@@ -8,8 +8,8 @@ I also document my startup journey along with software and AI tips and tricks on
 
 ### 🔗 My Links
 <p>
-    <a href="https://www.linkedin.com/in/halshin/" target="_blank" style="display: block;">
-        <img src="https://img.shields.io/badge/YouTube?logo=youtube&logoColor=red" alt="Hal Shin YouTube" />
+    <a href="https://www.youtube.com/@halshin_software" target="_blank" style="display: block;">
+        <img src="https://img.shields.io/badge/YouTube-Subscribe?logo=YouTube&logoColor=white&color=red" alt="Hal Shin YouTube" />
     </a>    
     <a href="https://www.linkedin.com/in/halshin/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Hal Shin LinkedIn" />
