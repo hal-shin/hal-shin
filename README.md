@@ -25,6 +25,8 @@ I am currently focused on developing open-source AI workflows and tooling.
 >
 > [**View Repository**](https://github.com/OverseedAI/viwo) • [**Report Bug**](https://github.com/OverseedAI/viwo/issues)
 
+![GitHub Stats for viwo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=viwo&username=OverseedAI&all_stats=true&stats_only=true)
+
 ---
 
 ### 📺 Content & Community
