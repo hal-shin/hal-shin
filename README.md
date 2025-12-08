@@ -1,17 +1,20 @@
-### 👋 &nbsp;Hey there!
+### 👋 &nbsp;Hello there!
 
-My name is Hal, and I'm a software developer. I work on various projects, some of which I have open sourced. Feel free to reach out for collaborations!
+I'm a software developer and founder of Overseed AI. 
 
-### 💼 &nbsp;Portfolio
+I'm currently working on developing open source AI workflows and toolings. My latest project is [viwo-cli](https://github.com/OverseedAI/viwo).
 
-Feel free to check out [my portfolio](https://halshin.com)!
+I also document my startup journey along with software and AI tips and tricks on my social media channels. Feel free to connect with me!
 
-### ✉ &nbsp;Contact Me
+### 🔗 My Links
 <p>
+    <a href="https://www.linkedin.com/in/halshin/" target="_blank" style="display: block;">
+        <img src="https://img.shields.io/badge/YouTube?logo=youtube&logoColor=red" alt="Hal Shin YouTube" />
+    </a>    
     <a href="https://www.linkedin.com/in/halshin/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Hal Shin LinkedIn" />
     </a>
-      <a href="https://twitter.com/_halshin" target="_blank">
+      <a href="https://x.com/_halshin" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Hal Shin Twitter" />
     </a>
     <a href="mailto:hal@bandh.ca" target="_blank">
