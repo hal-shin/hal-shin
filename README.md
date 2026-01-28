@@ -30,7 +30,11 @@ documenting: the startup journey on YouTube
 ### 🔭 &nbsp;What I'm Working On
 
 - **[Overseed AI](https://github.com/OverseedAI)** — Open-source AI workflows and tooling
-- **[viwo-cli](https://github.com/OverseedAI/viwo)** — CLI for orchestrating AI workflows
+- **[viwo](https://github.com/OverseedAI/viwo)** — Faster, safer way to one-shot prompts with Claude Code
+- **[tubeplanner](https://github.com/OverseedAI/tubeplanner)** — AI-guided YouTube video planning app
+- **[overwhisper](https://github.com/OverseedAI/overwhisper)** — Native macOS menu bar app for voice transcription
+- **[overnotion](https://github.com/OverseedAI/overnotion)** — Notion CLI for workspace operations
+- **[miranda](https://github.com/OverseedAI/miranda)** — The news anchor bot
 - **[YouTube](https://www.youtube.com/@halshin_software)** — Deep dives into AI tooling & startup life
 
 ### ⚡ &nbsp;Current Focus
@@ -58,6 +62,22 @@ documenting: the startup journey on YouTube
   <a href="https://github.com/OverseedAI/viwo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=viwo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
+  <a href="https://github.com/OverseedAI/tubeplanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=tubeplanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/OverseedAI/overwhisper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=overwhisper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/OverseedAI/overnotion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=overnotion&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/OverseedAI/miranda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=miranda&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
 </p>
 
 ---
@@ -80,10 +100,6 @@ documenting: the startup journey on YouTube
 </details>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hal-shin&style=flat-square&color=58a6ff" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
