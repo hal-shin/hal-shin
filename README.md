@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@halshin_software"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://x.com/_halshin"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/halshin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@halshin_software"><img src="https://img.shields.io/badge/@halshin__software-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/_halshin"><img src="https://img.shields.io/badge/@__halshin-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/halshin"><img src="https://img.shields.io/badge/halshin-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/halshin/"><img src="https://img.shields.io/badge/halshin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -29,13 +30,25 @@ documenting: the startup journey on YouTube
 
 ### 🔭 &nbsp;What I'm Working On
 
-- **[Overseed AI](https://github.com/OverseedAI)** — Open-source AI workflows and tooling
-- **[viwo](https://github.com/OverseedAI/viwo)** — Faster, safer way to one-shot prompts with Claude Code
-- **[tubeplanner](https://github.com/OverseedAI/tubeplanner)** — AI-guided YouTube video planning app
-- **[overwhisper](https://github.com/OverseedAI/overwhisper)** — Native macOS menu bar app for voice transcription
-- **[overnotion](https://github.com/OverseedAI/overnotion)** — Notion CLI for workspace operations
-- **[miranda](https://github.com/OverseedAI/miranda)** — The news anchor bot
-- **[YouTube](https://www.youtube.com/@halshin_software)** — Deep dives into AI tooling & startup life
+**[viwo](https://github.com/OverseedAI/viwo)** — Faster, safer way to one-shot prompts with Claude Code
+<br/>
+![Stars](https://img.shields.io/github/stars/OverseedAI/viwo?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/viwo?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/viwo?style=flat-square&color=58a6ff)
+
+**[tubeplanner](https://github.com/OverseedAI/tubeplanner)** — AI-guided YouTube video planning app
+<br/>
+![Stars](https://img.shields.io/github/stars/OverseedAI/tubeplanner?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/tubeplanner?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/tubeplanner?style=flat-square&color=58a6ff)
+
+**[overwhisper](https://github.com/OverseedAI/overwhisper)** — Native macOS menu bar app for voice transcription
+<br/>
+![Stars](https://img.shields.io/github/stars/OverseedAI/overwhisper?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/overwhisper?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/overwhisper?style=flat-square&color=58a6ff)
+
+**[overnotion](https://github.com/OverseedAI/overnotion)** — Notion CLI for workspace operations
+<br/>
+![Stars](https://img.shields.io/github/stars/OverseedAI/overnotion?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/overnotion?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/overnotion?style=flat-square&color=58a6ff)
+
+**[miranda](https://github.com/OverseedAI/miranda)** — The news anchor bot
+<br/>
+![Stars](https://img.shields.io/github/stars/OverseedAI/miranda?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/miranda?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/miranda?style=flat-square&color=58a6ff)
 
 ### ⚡ &nbsp;Current Focus
 
