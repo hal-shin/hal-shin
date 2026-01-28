@@ -1,37 +1,41 @@
-<div style="text-align: center">
+```
+ _   _       _   ____  _     _
+| | | | __ _| | / ___|| |__ (_)_ __
+| |_| |/ _` | | \___ \| '_ \| | '_ \
+|  _  | (_| | |  ___) | | | | | | | |
+|_| |_|\__,_|_| |____/|_| |_|_|_| |_|
+```
 
-# Hi, I'm Hal Shin 👋
+**building AI tools by day, making videos about it by night**
 
-### Founder of <a href="https://github.com/OverseedAI">Overseed AI</a> | Software Developer | Content Creator
-
-<a href="https://www.youtube.com/@halshin_software"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
-<a href="https://www.twitch.tv/halshin"><img src="https://img.shields.io/badge/Twitch-Follow-6441a5?style=for-the-badge&logo=twitch" alt="Twitch"/></a>
-<a href="https://www.linkedin.com/in/halshin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://x.com/_halshin"><img src="https://img.shields.io/badge/X/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://bsky.app/profile/halshin.com"><img src="https://img.shields.io/badge/X/Bluesky-Follow-0085FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:hal@bandh.ca"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
-
----
-
-### 🚀 What I'm Building
-
-I am currently focused on developing open-source AI workflows and tooling.
-
-> **[viwo-cli](https://github.com/OverseedAI/viwo)**
->
-> A powerful CLI tool for orchestrating AI workflows.
->
-> [**View Repository**](https://github.com/OverseedAI/viwo) • [**Report Bug**](https://github.com/OverseedAI/viwo/issues)
-
-![GitHub Stats for viwo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=viwo&username=OverseedAI&all_stats=true&stats_only=true)
+[![YouTube](https://img.shields.io/badge/YouTube-@halshin__software-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@halshin_software)
+[![X](https://img.shields.io/badge/X-@__halshin-000000?style=flat&logo=x)](https://x.com/_halshin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-halshin-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/halshin/)
 
 ---
 
-### 📺 Content & Community
+### what i'm up to
 
-I document my startup journey and share software/AI engineering tips.
+founder of **[Overseed AI](https://github.com/OverseedAI)** — obsessed with making AI actually useful through better tooling, workflows, and automation.
 
-* **YouTube:** Deep dives into AI tooling and startup life.
-* **Overseed AI:** My journey building the next generation of AI tools.
+i document the whole journey on youtube. the wins, the fails, the "why did i think this was a good idea at 2am" moments.
+
+### current obsessions
+
+- 🔧 **AI tooling** — if it can be automated, it should be
+- 🎬 **content** — turning complex tech into digestible videos
+- 🧪 **experimentation** — shipping fast, learning faster
+
+### featured work
+
+<a href="https://github.com/OverseedAI/viwo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=viwo&theme=transparent&hide_border=true" />
+</a>
+
+### stats (because why not)
+
+<img src="https://github-readme-stats.vercel.app/api?username=hal-shin&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true" />
+
+---
+
+<sub>*currently: caffeinated and shipping*</sub>
