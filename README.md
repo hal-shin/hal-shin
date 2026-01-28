@@ -28,37 +28,65 @@ documenting: the startup journey on YouTube
 
 ---
 
-### 🔭 &nbsp;What I'm Working On
+### 🚀 &nbsp;What I'm Building
 
-**[viwo](https://github.com/OverseedAI/viwo)** — Faster, safer way to one-shot prompts with Claude Code
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/OverseedAI/viwo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=viwo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 <br/>
-![Stars](https://img.shields.io/github/stars/OverseedAI/viwo?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/viwo?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/viwo?style=flat-square&color=58a6ff)
-
-**[tubeplanner](https://github.com/OverseedAI/tubeplanner)** — AI-guided YouTube video planning app
+<img src="https://img.shields.io/github/last-commit/OverseedAI/viwo?style=flat-square&label=last%20commit&color=58a6ff" />
+<img src="https://img.shields.io/github/commit-activity/m/OverseedAI/viwo?style=flat-square&label=commits&color=58a6ff" />
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/OverseedAI/tubeplanner">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=tubeplanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 <br/>
-![Stars](https://img.shields.io/github/stars/OverseedAI/tubeplanner?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/tubeplanner?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/tubeplanner?style=flat-square&color=58a6ff)
-
-**[overwhisper](https://github.com/OverseedAI/overwhisper)** — Native macOS menu bar app for voice transcription
+<img src="https://img.shields.io/github/last-commit/OverseedAI/tubeplanner?style=flat-square&label=last%20commit&color=58a6ff" />
+<img src="https://img.shields.io/github/commit-activity/m/OverseedAI/tubeplanner?style=flat-square&label=commits&color=58a6ff" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/OverseedAI/overwhisper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=overwhisper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 <br/>
-![Stars](https://img.shields.io/github/stars/OverseedAI/overwhisper?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/overwhisper?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/overwhisper?style=flat-square&color=58a6ff)
-
-**[overnotion](https://github.com/OverseedAI/overnotion)** — Notion CLI for workspace operations
+<img src="https://img.shields.io/github/last-commit/OverseedAI/overwhisper?style=flat-square&label=last%20commit&color=58a6ff" />
+<img src="https://img.shields.io/github/commit-activity/m/OverseedAI/overwhisper?style=flat-square&label=commits&color=58a6ff" />
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/OverseedAI/overnotion">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=overnotion&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 <br/>
-![Stars](https://img.shields.io/github/stars/OverseedAI/overnotion?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/overnotion?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/overnotion?style=flat-square&color=58a6ff)
-
-**[miranda](https://github.com/OverseedAI/miranda)** — The news anchor bot
+<img src="https://img.shields.io/github/last-commit/OverseedAI/overnotion?style=flat-square&label=last%20commit&color=58a6ff" />
+<img src="https://img.shields.io/github/commit-activity/m/OverseedAI/overnotion?style=flat-square&label=commits&color=58a6ff" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/OverseedAI/miranda">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=miranda&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 <br/>
-![Stars](https://img.shields.io/github/stars/OverseedAI/miranda?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/OverseedAI/miranda?style=flat-square&color=58a6ff) ![Last Commit](https://img.shields.io/github/last-commit/OverseedAI/miranda?style=flat-square&color=58a6ff)
-
-### ⚡ &nbsp;Current Focus
-
-- 🛠️ &nbsp;Building AI developer tools that solve real problems
-- 🎬 &nbsp;Creating content about AI, automation, and building in public
-- 🧪 &nbsp;Shipping fast, experimenting often, learning always
+<img src="https://img.shields.io/github/last-commit/OverseedAI/miranda?style=flat-square&label=last%20commit&color=58a6ff" />
+<img src="https://img.shields.io/github/commit-activity/m/OverseedAI/miranda?style=flat-square&label=commits&color=58a6ff" />
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/OverseedAI">
+<img src="https://img.shields.io/badge/View_All_Projects-OverseedAI-58a6ff?style=for-the-badge&logo=github" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 &nbsp;GitHub Stats
+### 📊 &nbsp;Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hal-shin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
@@ -66,32 +94,6 @@ documenting: the startup journey on YouTube
 </p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hal-shin&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🚀 &nbsp;Featured Projects
-
-<p align="center">
-  <a href="https://github.com/OverseedAI/viwo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=viwo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/OverseedAI/tubeplanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=tubeplanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/OverseedAI/overwhisper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=overwhisper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/OverseedAI/overnotion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=overnotion&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/OverseedAI/miranda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OverseedAI&repo=miranda&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-</p>
 
 ---
 
