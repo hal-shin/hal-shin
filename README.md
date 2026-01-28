@@ -1,10 +1,8 @@
-### Hey there <a href="https://github.com/hal-shin"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></a>
-
 <p align="center">
-  <a href="https://github.com/OverseedAI">
-    <img src="https://socialify.git.ci/OverseedAI/viwo/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Overseed AI" width="640" height="320" />
-  </a>
+  <img src="assets/headshot.png" width="180" style="border-radius: 50%;" />
 </p>
+
+### Hey, I'm Hal <a href="https://github.com/hal-shin"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></a>
 
 <p align="center">
   <a href="https://www.youtube.com/@halshin_software"><img src="https://img.shields.io/badge/@halshin__software-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
