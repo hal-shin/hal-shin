@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@halshin_software"><img src="https://img.shields.io/badge/@halshin__software-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@halshin"><img src="https://img.shields.io/badge/@halshin-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://x.com/_halshin"><img src="https://img.shields.io/badge/@__halshin-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.twitch.tv/halshin"><img src="https://img.shields.io/badge/halshin-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/halshin/"><img src="https://img.shields.io/badge/halshin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
